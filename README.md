@@ -2,12 +2,12 @@
 
 
 ## Table of Contents  
-- 📌 [Project Overview](#project-overview)
-- 📊 [DATA SOURCES](#data-sources)
-- 🛠️ [TOOLS](#tools)
-- 📊 [DASHBOARD FEATURES](#dashboard-features)
-- 🔍[INSIGHT & ANALYSIS](#insight--analysis)
-- ✅[CONCLUSION](#conclusion)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Dashboard Features](#dashboard-features)
+- [Insight & Analysis](#insight--analysis)
+- [Conclusion](#conclusion)
 
 ---
 
